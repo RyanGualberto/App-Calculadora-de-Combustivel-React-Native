@@ -62,7 +62,7 @@ export default function App() {
 
       <View style={styles.bloco5}>
         <TouchableOpacity Style={styles.botao2} onPress={clear}>
-          <Text style={styles.textoBot2}>Limpar</Text>
+          <Text style={styles.textoBot2}>Limpars</Text>
         </TouchableOpacity>
       </View>
 
